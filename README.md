@@ -12,7 +12,7 @@ Tested on Ubuntu 24.04 LTS, other platforms may vary.<br>
 <br>
 I recommend using uv to install the requirements:<br>
 <br>
-uv venv --python 3.11 .venv<br>
+uv venv --python 3.12 .venv<br>
 source .venv/bin/activate<br>
 uv pip install -r requirements.txt<br>
 <br>
